@@ -1,0 +1,7 @@
+var1 = "hello"
+
+var2 = "world"
+
+var3 = var1 + var2
+
+var4 = 123.234
